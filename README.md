@@ -5,7 +5,7 @@ tap into the power of public APIs and data. With the careful use of asynchronous
 javascript and by creating responsive front-end interfaces, I am able to display the
 most important pieces of information for the client's needs. I love to see projects
 grow from tiny seedlings of thought to fully functional productivity applications that
-users can immediately benekt from. While continuing to build applications, I also
+users can immediately benefit from. While continuing to build applications, I also
 seek out opportunities to collaborate with other like minded developers in order to
 hone in on my craft. I have experience with Scrum Agile methodologies and Git and
 Github version control. 
