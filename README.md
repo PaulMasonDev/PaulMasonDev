@@ -22,13 +22,14 @@ Github version control.
 | JavaScript | Node       |
 | CSS/SCSS   | Express    |
 | React      | MongoDB    |
+| Redux      |            |
 
 
 ## Things I'm currently learning...
 
 | Front-End  | Back-end |
 | :--------- | :------- |
-| Redux      | Firebase |
+| SASS       | Firebase |
 |            | Python   |
 |            | C#       |
 
