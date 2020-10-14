@@ -29,7 +29,7 @@ Github version control.
 
 | Front-End  | Back-end |
 | :--------- | :------- |
-| SASS       | Firebase |
+|            | Firebase |
 |            | Python   |
 |            | C#       |
 
