@@ -29,9 +29,10 @@ Github version control.
 
 | Front-End  | Back-end |
 | :--------- | :------- |
-| Vue        | Firebase |
-|            | Python   |
-|            | C#       |
+| Vue        | PHP      |
+| Wordpress  | Python   |
+|            | C#       |  
+|            | Firebase |
 
 
 ## Profile Statistics
