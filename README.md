@@ -23,6 +23,7 @@ Github version control.
 | CSS/SCSS   | Express    |
 | React      | MongoDB    |
 | Redux      |            |
+| Stencil JS |            |
 
 
 ## Things I'm currently learning...
