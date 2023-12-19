@@ -9,8 +9,6 @@ My skill set includes a strong foundation in essential soft skills like communic
 ## 📫 Contact me at...
 
 <a target="_blank" href="https://www.linkedin.com/in/paulmasondev/">LinkedIn</a>\
-<a target="_blank" href="https://www.paulmasondev.com">Website/Portfolio</a>
-
 
 ## Profile Statistics
 
