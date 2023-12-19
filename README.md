@@ -1,39 +1,15 @@
 ### Hi there, I'm Paul! 👋
 
-Passionate web developer who gets excited about creating new applications that
-tap into the power of public APIs and data. With the careful use of asynchronous
-javascript and by creating responsive front-end interfaces, I am able to display the
-most important pieces of information for the client's needs. I love to see projects
-grow from tiny seedlings of thought to fully functional productivity applications that
-users can immediately benefit from. While continuing to build applications, I also
-seek out opportunities to collaborate with other like minded developers in order to
-hone in on my craft. I have experience with Scrum Agile methodologies and Git and
-Github version control. 
+I am a forward-thinking software engineer with a strong focus on leveraging AI technologies like Chat GPT models to create innovative chatbots and productivity tools, particularly in the realm of job searching. My expertise lies in developing scalable, high-performance web applications using React, React Native, JavaScript and TypeScript. I have a keen interest in exploring how AI will revolutionize software development, and I continuously upskill in this area.
+
+My technical proficiency extends to Python, FastAPI, PostgreSQL, and SQLAlchemy, ensuring a versatile and robust backend support for my front-end endeavors. My ability to communicate effectively and collaborate with both technical and non-technical team members has been a cornerstone of my professional success.
+
+My skill set includes a strong foundation in essential soft skills like communication and collaboration.
 
 ## 📫 Contact me at...
 
 <a target="_blank" href="https://www.linkedin.com/in/paulmasondev/">LinkedIn</a>\
 <a target="_blank" href="https://www.paulmasondev.com">Website/Portfolio</a>
-
-## 🔭 Currently building and solving problems with...
-
-| Front-End  | Back-end   |
-| :--------- | :--------- |
-| JavaScript | Node       |
-| CSS/SCSS   | Express    |
-| React      | MongoDB    |
-| Redux      |            |
-| Stencil JS |            |
-
-
-## Things I'm currently learning...
-
-| Front-End  | Back-end |
-| :--------- | :------- |
-| Vue        | PHP      |
-| Wordpress  | Python   |
-|            | C#       |  
-|            | Firebase |
 
 
 ## Profile Statistics
