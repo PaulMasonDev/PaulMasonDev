@@ -1,10 +1,8 @@
 ### Hi there, I'm Paul! 👋
 
-I am a forward-thinking software engineer with a strong focus on leveraging AI technologies like Chat GPT models to create innovative chatbots and productivity tools, particularly in the realm of job searching. My expertise lies in developing scalable, high-performance web applications using React, React Native, JavaScript and TypeScript. I have a keen interest in exploring how AI will revolutionize software development, and I continuously upskill in this area.
+Passionate Front End Engineer with over 3 years of experience in developing scalable, high-performance web applications. Skilled in JavaScript, TypeScript, React.js, and Node.js, with a proven track record in leading teams, optimizing performance, and implementing robust testing systems.
 
-My technical proficiency extends to Python, FastAPI, PostgreSQL, and SQLAlchemy, ensuring a versatile and robust backend support for my front-end endeavors. My ability to communicate effectively and collaborate with both technical and non-technical team members has been a cornerstone of my professional success.
-
-My skill set includes a strong foundation in essential soft skills like communication and collaboration.
+Recognized for effectively managing loosely defined projects, actively pursuing solutions, and excelling in problem definition and resolution. Balances technical excellence with pragmatic trade-off discussions, maintaining reasonable expectations. Curious and quick to adopt new technologies, consistently improving skills.
 
 ## 📫 Contact me at...
 
