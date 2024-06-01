@@ -8,11 +8,6 @@ Recognized for effectively managing loosely defined projects, actively pursuing 
 
 <a target="_blank" href="https://www.linkedin.com/in/paulmasondev/">LinkedIn</a>\
 
-## Profile Statistics
-
-<a href="https://github.com/PaulMasonDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulMasonDev&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
-</a>
 <!--
 **PaulMasonDev/PaulMasonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
